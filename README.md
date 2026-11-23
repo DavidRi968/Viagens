@@ -14,13 +14,6 @@ Landing page responsiva desenvolvida para simular o portal de uma agência de vi
 - **HTML5:** Estruturação semântica (`header`, `main`, `section`, `article`, `figure`, `address`, `nav`, `footer`).
 - **CSS3:** Estilização moderna com Flexbox, CSS Grid, tipografia personalizada (Google Fonts - Raleway) e responsividade.
 
-## 💻 Como visualizar o projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com
-   ```
-2. Abra o arquivo `index.html` diretamente no seu navegador.
 
 ---
 Desenvolvido durante os estudos de Front-End.
